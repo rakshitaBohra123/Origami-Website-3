@@ -1,0 +1,107 @@
+h1{
+    color: red;
+    background-color: yellow;
+    border: solid;
+    text-align: center;
+    font-weight: 50px;
+    font-size: 70px;
+}
+
+
+
+h2{
+    color: green;
+    background-color: lightblue;
+    border: solid;
+    border-color: green;
+   font-family: serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    color:darkblue;
+    background-color:#21dd69 ;
+    font-family: 'Trebucet MS','Lucida Sans Unicode','Lucida Grande';
+    text-align: center;
+    padding: 5px;
+    height: 30px;
+}
+
+
+li{
+    color:red;
+    background-color: yellow;
+    padding: 10px;
+    margin: 50px;
+    background-color: lightgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+p{
+    color:rgb(0, 0, 0);
+    background-color: #fa90ca;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+img{
+    border:solid;
+    border-color:#21dd69;
+    border-radius: 50px;
+
+}
+
+.crafts{
+    display:flex;
+    justify-content:space-between
+    
+    
+}
+
+.craft{
+    display:flex;
+    justify-content:space-between
+}
+
+.sr{
+    display: flex;
+    justify-content: space-between;
+}
+
+.srv{
+    display: flex;
+    justify-content: space-between;
+}
+.src{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.qwd{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.dsg{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.vfr{
+    display: flex;
+    justify-content: space-between; 
+}
+
+body{
+    background-color:white;
+    
+        
+    
+    
+}
+
+
+
+
